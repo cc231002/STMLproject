@@ -1,6 +1,6 @@
 # STMLproject
 
-The project is about a language detection model. It uses two machine learning models SVM and Naive bias 
+The project is about a language detection model. It uses two machine learning models SVM and Naive bayes.
 
 ## Installations before running
 
